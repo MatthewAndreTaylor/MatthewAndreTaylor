@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on python packages
 - 📫 How to reach me
     * Email: `matthew.andre.taylor@gmail.com`
+    * LinkedIn: ``
     * Discord: https://discord.com/users/318497127238074379
 
 ```python
