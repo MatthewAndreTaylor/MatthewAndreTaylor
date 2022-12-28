@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @MatthewAndreTaylor
 - 👀 I’m interested in Javascript, Python, and Algorithms
-- 🌱 I’m currently learning about 
+- 🌱 I’m currently learning about time complexity of different algorithms
 - 💞️ I’m looking to collaborate on python packages
 - 📫 How to reach me
     * Email: `matthew.andre.taylor@gmail.com`
