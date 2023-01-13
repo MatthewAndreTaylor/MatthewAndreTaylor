@@ -34,7 +34,7 @@ for i in range(matthew_taylor['age']):
 <code><img height="30" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
 <img height="40" alt="turtle" src="https://i.pinimg.com/originals/49/2a/36/492a36494fc89228bf30580f2387ff86.gif"></img>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewAndreTaylor&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MatthewAndreTaylor.MatthewAndreTaylor)
 
