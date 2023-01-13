@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on python packages
 - 📫 How to reach me...
 
- [![Website](https://img.shields.io/badge/🌐_Website-matthewtaylor.netlify.app-informational?style=flat-square&color=8B89CC)](https://matthewtaylor.netlify.app)
+ [![Website](https://img.shields.io/badge/Website-matthewtaylor.netlify.app-informational?style=flat-square&color=8B89CC&logo=Google-Chrome&logoColor=white)](https://matthewtaylor.netlify.app)
  [![Linkedin](https://img.shields.io/badge/Linkedin-Matthew_Taylor-informational?style=flat-square&color=blue&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-taylor-93b113260)
  [![Gmail](https://img.shields.io/badge/Gmail-matthew.andre.taylor@gmail.com-informational?style=flat-square&color=D14836&logo=gmail&logoColor=white)](matthew.andre.taylor@gmail.com)
  [![Discord](https://img.shields.io/badge/Discord-matt_t-informational?style=flat-square&color=7289DA&logo=discord&logoColor=white)](https://discord.com/users/318497127238074379)
