@@ -22,7 +22,7 @@ matthew_taylor = {
     'studying': 'Computer Science',
     'fun_fact': 'My favourite color is red 🍎',
     'activities': ['👨‍💻', '👨‍🔬', '🏊‍♂️'],
-    'age': 19
+    'age': 20
 }
 
 matthew_taylor['activities'].append('🏓')
