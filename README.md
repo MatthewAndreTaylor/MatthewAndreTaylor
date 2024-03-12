@@ -2,7 +2,6 @@
 - 👀 I am interested in Python and Machine learning.
 - 🌱 Currently, I am learning about Cybersecurity, Artificial intelligence, Programming paradigms, and Systems.
 - 🏫 In pursuit of an Honours Bachelor of Science with a specialization in Computer Science at the University of Toronto.
-- 💼 Currently seeking a PEY Co-op internship. 
 - 📫 You can reach me at ...
 
 [![Website](https://img.shields.io/badge/Website-matthewtaylor.netlify.app-informational?style=flat-square&color=8B89CC&logo=Google-Chrome&logoColor=white)](https://matthewtaylor.netlify.app)
