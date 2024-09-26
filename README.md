@@ -15,23 +15,13 @@
 [![Website](https://img.shields.io/badge/Flask-matthewtaylor.pythonanywhere.com-informational?style=flat-square&color=E23237&logo=flask&logoColor=white)](https://matthewtaylor.pythonanywhere.com)
 
 ```python
-import random
-
 matthew_taylor = {
-    'languages': ['Javascript', 'Python', 'Java', 'C#', 'HTML', 'CSS'],
+    'languages': ['Python', 'Javascript', 'C++', 'Java', 'C#', 'HTML', 'CSS'],
     'studying': 'Computer Science',
     'fun_fact': 'My favourite color is red 🍎',
-    'activities': ['👨‍💻', '👨‍🔬', '🏊‍♂️'],
+    'activities': ['👨‍💻', '👨‍🔬', '🏊‍♂️', '🏓'],
     'age': 20
 }
-
-matthew_taylor['activities'].append('🏓')
-
-matthew_activities = matthew_taylor['activities']
-
-for i in range(matthew_taylor['age']):
-    print(matthew_activities[random.randint(0,len(matthew_activities)-1)])
-
 ```
 
 <code><img height="30" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
