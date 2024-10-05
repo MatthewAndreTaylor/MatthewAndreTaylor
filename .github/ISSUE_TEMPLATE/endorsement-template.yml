@@ -16,5 +16,6 @@ body:
       label: Description of the Endorsement
       description: Briefly describe the endorsement
       placeholder: "> endorsement"
+      value: "> endorsement"
     validations:
       required: false
