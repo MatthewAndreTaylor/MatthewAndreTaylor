@@ -2,7 +2,4 @@ name: endorsement-template
 title: "Endorsement: [skill]"
 description: "> endorsement"
 about: "create an endorsement"
-body:
-- type: markdown
-  attributes:
-    value: "> endorsement"
+body: "> endorsement"
