@@ -1,6 +1,6 @@
 name: endorsement-template
 description: Create an endorsement or recommendation
-title: "[ENDORSEMENT] <Title of the endorsement request>"
+title: "[ENDORSEMENT] <Skill that you are endorsing>"
 labels: []
 assignees: []
 
