@@ -1,0 +1,20 @@
+name: endorsement-template
+description: Create an endorsement or recommendation
+title: "[ENDORSEMENT] <Title of the endorsement request>"
+labels: []
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for creating an endorsement.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the Endorsement
+      description: Briefly describe the endorsement
+      placeholder: "> endorsement"
+    validations:
+      required: false
