@@ -33,6 +33,6 @@ jobs:
 
       - name: Run Endorsements
         run: |
-          python -c "from endorsements import run\nrun()"
+          python -c "from endorsements import run; run()"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
