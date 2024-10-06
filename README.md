@@ -19,9 +19,8 @@ Add an interaction (comment 💬 / reaction ❤) to endorse an existing skill, o
 
 - [Web Development](https://github.com/MatthewAndreTaylor/MatthewAndreTaylor/issues/1)
 
-| |
-|:-------------------------:|
-| ![Profile MatthewAndreTaylor](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/100451342?v=4&h=30&w=30&fit=cover&mask=circle&maxage=7d) <small><a href="https://github.com/MatthewAndreTaylor">MatthewAndreTaylor</a></small>  |
+     <code> ![Profile MatthewAndreTaylor](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/100451342?v=4&h=30&w=30&fit=cover&mask=circle&maxage=7d) <small><a href="https://github.com/MatthewAndreTaylor">MatthewAndreTaylor</a></small></code>
+    
 
 
 <!--end:endorsements-->
