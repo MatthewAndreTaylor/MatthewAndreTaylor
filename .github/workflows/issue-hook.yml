@@ -1,0 +1,20 @@
+name: On Issue Created
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Notify New Issue
+        run: |
+          echo "A new issue has been created!"
+          echo "Issue Title: ${{ github.event.issue.title }}"
+          echo "Issue Body: ${{ github.event.issue.body }}"
+          echo "Created by: ${{ github.event.issue.user.login }}"
+          # Add additional commands here, e.g., sending a message to a chat app or logging
