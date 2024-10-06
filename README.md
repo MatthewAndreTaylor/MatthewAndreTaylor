@@ -12,7 +12,7 @@
 
 
 ### Endorsements and Recommendations
-Add a reaction to endorse an existing skill, or endorse a new skill
+Add an interaction (comment 💬 / reaction ❤) to endorse an existing skill, or create a new endorsement
 
 <!--start:endorsements-->
 ...
