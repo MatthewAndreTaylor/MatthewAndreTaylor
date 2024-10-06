@@ -1,4 +1,4 @@
-name: On Issue Created
+name: Update Endorsements
 
 on:
   issues:
@@ -13,10 +13,27 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Notify New Issue
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Endorsements Repo
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use GitHub token for authentication
         run: |
-          echo "A new issue has been created!"
-          echo "Issue Title: ${{ github.event.issue.title }}"
-          echo "Issue Body: ${{ github.event.issue.body }}"
-          echo "Created by: ${{ github.event.issue.user.login }}"
-          # Add additional commands here, e.g., sending a message to a chat app or logging
+          git clone https://github.com/MatthewAndreTaylor/Endorsements.git
+          cd Endorsements
+          ls
+
+      - name: Install Endorsements
+        run: |
+          cd Endorsements
+          pip install --upgrade pip
+          pip install endorsements-0.0.1-py3-none-any.whl
+
+      - name: Run Endorsements
+        run: |
+          python -m endorsements
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
