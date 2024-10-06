@@ -12,6 +12,8 @@
 
 
 ### Endorsements and Recommendations
+Add a reaction to endorse an existing skill, or endorse a new skill
+
 <!--start:endorsements-->
 ...
 <!--end:endorsements-->
