@@ -26,6 +26,8 @@ Add an interaction (comment 💬 / reaction ❤) to endorse an existing skill, o
 
 <!--end:endorsements-->
 
+- [Add a new endorsement](https://github.com/{owner}/{repo}/issues/new?assignees=&labels=&projects=&template=endorsement-template.yml&title=%5BENDORSEMENT%5D%3A+%3CSkill+that+you+are+endorsing%3E)
+
 
 <br>
 
