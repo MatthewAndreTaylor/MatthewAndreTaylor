@@ -1,12 +1,19 @@
-## 👋 Hi, I’m @MatthewAndreTaylor
-- 👀 I am interested in Python and Machine learning.
-- 🌱 Currently, I am learning about Cybersecurity, Artificial intelligence, Programming paradigms, and Systems.
-- 🏫 In pursuit of an Honours Bachelor of Science with a specialization in Computer Science at the University of Toronto.
-- 📫 You can reach me at ...
+<p align="center">
+  <h1 align="center">👋 Hi, I’m Matthew</h1>
+</p>
+
+I am a software developer with a passsion for problem solving. I love collaborating with others and working with new technology.
+
+- 🎓 I'm working towards finishing my Honours Bachelor of Science with a specialization in Computer Science at the University of Toronto.
+- 💭 Feel free to ask me about technology, swimming, PC building, guitar, or any other topic!
+- 🌱 I’m developing using Python, Grpc, Javascript, C++ and USD.
+- 📫 You can reach me by sending an [email](mailto:matthew.andre.taylor@gmail.com?subject=Hello%20from%20your%20GitHub%20profile!) or a message on [linkedin](https://www.linkedin.com/in/matthew-taylor-93b113260).
+
+<br>
 
 [![Website](https://img.shields.io/badge/Website-matthewtaylor.netlify.app-informational?style=flat-square&color=8B89CC&logo=Google-Chrome&logoColor=white)](https://matthewtaylor.netlify.app)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Matthew_Taylor-informational?style=flat-square&color=blue&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-taylor-93b113260)
-[![Gmail](https://img.shields.io/badge/Gmail-matthew.andre.taylor@gmail.com-informational?style=flat-square&color=D14836&logo=gmail&logoColor=white)](https://gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-matthew.andre.taylor@gmail.com-informational?style=flat-square&color=D14836&logo=gmail&logoColor=white)](mailto:matthew.andre.taylor@gmail.com)
 [![Website](https://img.shields.io/badge/Flask-matthewtaylor.pythonanywhere.com-informational?style=flat-square&color=E23237&logo=flask&logoColor=white)](https://matthewtaylor.pythonanywhere.com)
 [![Discord](https://img.shields.io/badge/Discord-matt_t-informational?style=flat-square&color=7289DA&logo=discord&logoColor=white)](https://discord.com/users/318497127238074379)
 
