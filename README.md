@@ -24,6 +24,13 @@ Add an interaction (comment 💬 / reaction ❤) to endorse an existing skill, o
 <!--start:endorsements-->
 
 
+- [Hard worker who gets things done](https://github.com/MatthewAndreTaylor/MatthewAndreTaylor/issues/6)
+
+     <code> ![Profile hungarianguy](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/27504876?v=4&h=30&w=30&fit=cover&mask=circle&maxage=7d) <small><a href="https://github.com/hungarianguy">hungarianguy</a></small></code>
+    
+
+
+
 - [Software Engineering](https://github.com/MatthewAndreTaylor/MatthewAndreTaylor/issues/5)
 
      <code> ![Profile HamzaR13](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/108163846?v=4&h=30&w=30&fit=cover&mask=circle&maxage=7d) <small><a href="https://github.com/HamzaR13">HamzaR13</a></small></code>
