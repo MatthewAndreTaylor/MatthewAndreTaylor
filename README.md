@@ -4,7 +4,7 @@
 
 I am a software developer with a passsion for problem solving. I love collaborating with others and working with new technology.
 
-- 🎓 I'm working towards finishing my Honours Bachelor of Science with a specialization in Computer Science at the University of Toronto.
+- 🎓 I'm working towards finishing my Honours Bachelor of Science with a specialization in Computer Science at the University of Toronto. I recently finished a 16 month long internship at NVIDIA.
 - 💭 Feel free to ask me about technology, swimming, PC building, guitar, or any other topic!
 - 🌱 I’m developing using Python, Grpc, Javascript, C++ and USD.
 - 📫 You can reach me by sending an [email](mailto:matthew.andre.taylor@gmail.com?subject=Hello%20from%20your%20GitHub%20profile!) or a message on [linkedin](https://www.linkedin.com/in/matthew-taylor-93b113260).
