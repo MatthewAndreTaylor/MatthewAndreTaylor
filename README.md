@@ -63,7 +63,7 @@ matthew_taylor = {
     'studying': 'Computer Science',
     'fun_fact': 'My favourite color is red 🍎',
     'activities': ['👨‍💻', '👨‍🔬', '🏊‍♂️', '🏓'],
-    'age': 21
+    'age': 22
 }
 ```
    
