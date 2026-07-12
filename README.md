@@ -24,7 +24,7 @@ Add an interaction (comment 💬 / reaction ❤) to endorse an existing skill, o
 <!--start:endorsements-->
 
 
-- [<Skill that you are endorsing>](https://github.com/MatthewAndreTaylor/MatthewAndreTaylor/issues/8)
+- [<Skill that you are endorsing>](https://github.com/MatthewAndreTaylor/MatthewAndreTaylor/issues/9)
 
     
 
