@@ -24,12 +24,6 @@ Add an interaction (comment 💬 / reaction ❤) to endorse an existing skill, o
 <!--start:endorsements-->
 
 
-- [<Skill that you are endorsing>](https://github.com/MatthewAndreTaylor/MatthewAndreTaylor/issues/9)
-
-    
-
-
-
 - [Hard worker who gets things done](https://github.com/MatthewAndreTaylor/MatthewAndreTaylor/issues/6)
 
      <code> ![Profile hungarianguy](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/27504876?v=4&h=30&w=30&fit=cover&mask=circle&maxage=7d) <small><a href="https://github.com/hungarianguy">hungarianguy</a></small></code>
