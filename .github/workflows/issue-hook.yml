@@ -1,6 +1,7 @@
 name: Update Endorsements
 
 on:
+  workflow_dispatch:
   issues:
     types: [opened]
   issue_comment:
